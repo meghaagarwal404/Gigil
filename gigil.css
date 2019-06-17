@@ -1,0 +1,45 @@
+html, body{
+    margin:0px;
+    padding:0px;
+
+
+}
+.fa-paw{
+    color:#F9575C;
+}
+.carousel-control-prev-icon{
+    background-color: #F9575C!important;
+}
+.carousel-control-next-icon{
+    background-color: #F9575C!important;
+}
+.services{
+    padding-top: 30px;
+    color:  #F9BE4F;
+
+}
+  .zoom {
+    
+    overflow: hidden;
+    
+    }
+
+    .zoom img{
+        max-width: 100%;
+        
+        -moz-transition: all 0.3s;
+        -webkit-transition: all 0.3s;
+        transition: all 0.3s;
+    }
+      .zoom:hover img {
+        -moz-transform: scale(1.1);
+        -webkit-transform: scale(1.1);
+        transform: scale(1.1);
+      }
+      footer{
+        margin-top: 40px;
+        background-color: #3f3f3f;
+        opacity: 0.9;
+		color: #d5d5d5;
+		padding-top: 2rem;
+	}
